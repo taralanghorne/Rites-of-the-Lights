@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Collectible
+  - Health
+  - Enemy
+  - Zap
+  - Leaf
+  - Barrier
+  - Hazard
+  - Enemytrigger
+  - DogFollow
+  - BirdFollow
+  - Anims
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: sky
+    uniqueID: 2513425159
+    locked: 0
+  - name: Background
+    uniqueID: 3954937653
+    locked: 0
+  - name: Ground
+    uniqueID: 1180354601
+    locked: 0
+  - name: NPC
+    uniqueID: 3140554539
+    locked: 0
+  - name: Enemies
+    uniqueID: 766590607
+    locked: 0
+  - name: Collectibles
+    uniqueID: 2203420739
+    locked: 0
+  - name: Player
+    uniqueID: 2387953937
+    locked: 0
+  - name: Foreground
+    uniqueID: 1768742725
+    locked: 0
+  - name: UI
+    uniqueID: 2421843401
+    locked: 0

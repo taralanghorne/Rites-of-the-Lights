@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{BE15A92E-5230-27CF-6D17-BA31548743B9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UmbraFlyingFollow.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PrintingText.cs" Line="60" Column="6" />
+      <File FileName="Assets/Scripts/ChilumenFloat.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UmbraFollowFlat.cs" Line="2" Column="1" />
+      <File FileName="Assets/Scripts/ClickEndDialogueAnim.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UmbraFlyingFollow.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3586126f-e569-4aeb-bec6-23664f38664b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
